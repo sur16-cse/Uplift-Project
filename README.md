@@ -16,7 +16,7 @@ by GirlScript
 ## Task2
 **SignUP-Form**
 >only HTML used.
->>project to practice form tag.
+>>project to practice Form  tag with inline css button tag input tag check box.
 
 
 ## Task3
