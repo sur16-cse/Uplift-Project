@@ -10,7 +10,7 @@ by GirlScript
 ## Task1
 **Invoice-Table**
 >only HtML used.
->>project to practice Table tag.
+>>project to practice Table tag, td tag, th tag.
 
 
 ## Task2
