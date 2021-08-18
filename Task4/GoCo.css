@@ -121,12 +121,14 @@ body{
 }
 
 .but{
+    z-index: 1;
     display: flex;
     justify-content:center;
-    align-self: stretch;
+    /* align-self: stretch; */
+    align-items: center;
     background-color: white;
     height:auto;
-    padding-top: 1.875rem;
+    padding-top: 2.875rem;
     padding-bottom: 6.625rem;
 }
 
