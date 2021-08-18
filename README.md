@@ -28,7 +28,7 @@ by GirlScript
 **GoCo-Tracker [https://sur16-cse.github.io/Uplift-Project/Task4/]**
 >HTML and CSS used(flex,responsive).
 >>project to create nav bar,flex used responsive behaviour.
->>>Inspiration of hero section of [GoCo Tracker](gocotracker.herokuapp.com)
+>>>Inspiration of hero section of [GoCo Tracker](http://gocotracker.herokuapp.com/)
 
 
 
