@@ -38,6 +38,15 @@
             font-family: 'Courier New', Courier, monospace;
             font-weight: 600;
         }
+        .food div:target{
+            background-color: azure;
+        }
+        @media only screen and (max-width: 600px){
+            a,.item,.surbhi,h3,.food p{
+                font-size:0.8rem;
+            }
+            
+        }
     </style>
 </head>
 <body style="margin: 0; background-color:#def4fE">
@@ -53,36 +62,36 @@
     <div>
     <h3>Top 6 Favourite Foods:</h3>
     <ul id="dishes" class="food_list">
-        <li><a href="#">Anarsa</a></li>
-        <li><a href="#">Litti Chokha</a></li>
-        <li><a href="#">Arbi ki Sabji</a></li>
-        <li><a href="#">Sambhar Dosa</a></li>
-        <li><a href="#">White Sause Pasta</a></li>
-        <li><a href="#">Nimbu Paani</a></li>
+        <li><a href="#anarsa" id="anarsa">Anarsa</a></li>
+        <li><a href="#litti">Litti Chokha</a></li>
+        <li><a href="#arbi">Arbi ki Sabji</a></li>
+        <li><a href="#sambhar">Sambhar Dosa</a></li>
+        <li><a href="#sause">White Sause Pasta</a></li>
+        <li><a href="#nimbu">Nimbu Paani</a></li>
     </ul>
     </div>
     <div class="food">
-        <div>
+        <div id="anarsa">
             <img src="images/anarsa.jpg" alt="anarsa" width="33.3%">
             <p>Anarsa</p>
         </div>
-        <div>
+        <div id="litti">
             <img src="images/litti.jpg" alt="anarsa" width="33.3%">
             <p>Litti chokha</p>
         </div> 
-        <div>
+        <div id="arbi">
             <img src="images/kopal.jpg" alt="anarsa" width="33.3%">
             <p>Arbi ki Sabji</p>
         </div> 
-        <div>
+        <div id="sambhar">
             <img src="images/dosa.png" alt="anarsa" width="33.3%">
             <p>Sambhar Dosa</p>
         </div> 
-        <div>
+        <div id="sause">
             <img src="images/White-Sauce-Pasta.jpg" alt="anarsa" width="33.3%">
             <p>White Sauce Pasta</p>
         </div>
-        <div>
+        <div id="nimbu">
             <img src="images/nimbu_paani.jpg" alt="anarsa" width="33.3%">
             <p>Nimbu Paani</p>
         </div>    
