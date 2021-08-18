@@ -127,7 +127,7 @@ body{
     background-color: white;
     height:auto;
     padding-top: 1.875rem;
-    padding-bottom: 5.625rem;
+    padding-bottom: 6.625rem;
 }
 
 .but button{
@@ -140,12 +140,6 @@ body{
     outline:none;
     border:none;
     
-}
-
-
-
-.but:focus, textarea:focus, select:focus{
-    background:palevioletred
 }
 
 
@@ -181,6 +175,7 @@ body{
         width: 100%;
     }
     .right img{
+        padding-top: 0%;
         width:100%;
     }
     /* .but{
