@@ -86,7 +86,7 @@ body{
     background-color: #f9a58b;
     flex-direction: column;
     justify-content:center;
-    min-height: 50vh;
+    min-height: 30vh;
 }
 
 .heading
